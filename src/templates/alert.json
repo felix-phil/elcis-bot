@@ -1,0 +1,11 @@
+{
+  "passphrase": "elcispassphraseokay",
+  "side": "BUY",
+  "activationPrice": 42160.63441985,
+  "callbackRate": 0.5,
+  "quantity": 0.01,
+  "ticker": "BTCUSDT",
+  "entryPrice": 41862.6975,
+  "hedgeMode": false,
+  "stopPrice": 40983.5808525
+}
